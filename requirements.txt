@@ -1,0 +1,30 @@
+# Core CrewAI and AI dependencies
+crewai==0.86.0
+crewai-tools==0.17.0
+langchain==0.3.13
+langchain-google-genai==2.0.8
+langchain-community==0.3.13
+
+# Vector Store and RAG
+chromadb==0.5.23
+sentence-transformers==3.3.1
+
+# PDF Processing (for future extensions)
+pypdf==5.1.0
+python-docx==1.1.2
+
+# Data handling
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Web scraping and API
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Utilities
+python-dotenv==1.0.1
+typing-extensions==4.12.2
+
+# For better output formatting
+rich==13.9.4
+markdown==3.7

@@ -1,0 +1,38 @@
+
+CASE DETAILS
+
+Petitioner: Rajesh Kumar
+Respondent: State of Maharashtra
+
+FACTS:
+On 15th January 2024, the petitioner Rajesh Kumar was arrested by the police in Mumbai 
+on allegations of theft under Section 379 of the Indian Penal Code. The complainant, 
+Mr. Suresh Sharma, alleged that on 10th January 2024, his laptop worth Rs. 50,000 
+was stolen from his office premises, and based on CCTV footage, the petitioner was 
+identified as the person who took the laptop.
+
+The petitioner denies the allegations and states that he was not present at the 
+location on the said date. He claims that he was at his home, which is located 
+approximately 20 kilometers away from the scene of the alleged theft. The petitioner 
+has filed this petition seeking bail, arguing that:
+
+1. There is no direct evidence linking him to the theft
+2. The identification based on CCTV footage is unclear and disputed
+3. He has strong ties to the community and is not a flight risk
+4. He is willing to cooperate with the investigation
+
+The police oppose the bail application, stating that:
+1. The CCTV footage clearly shows the petitioner
+2. The petitioner has a previous conviction for a similar offense in 2018
+3. There is a risk that the petitioner may tamper with evidence or influence witnesses
+
+LEGAL ISSUES:
+1. Whether the petitioner is entitled to bail in the present case?
+2. What are the relevant provisions of law governing bail in theft cases?
+3. What factors should the court consider while deciding the bail application?
+
+CASE TYPE: Criminal
+
+STATUTES MENTIONED:
+- Section 379 IPC (Theft)
+- Section 437 CrPC (Bail in non-bailable offenses)
